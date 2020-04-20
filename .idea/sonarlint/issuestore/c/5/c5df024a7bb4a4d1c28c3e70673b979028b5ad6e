@@ -1,0 +1,20 @@
+
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(çŞÌÎ8èö†‘.
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¼û¤ñûÿÿÿÿ
+lsquid:S5361˜"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‡œ–îøÿÿÿÿ8èö†‘.
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(íÖò»ÿÿÿÿÿ
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(¤œ¡8èö†‘.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿà¤ï
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(¤œ¡8èö†‘.
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¼û¤ñûÿÿÿÿ
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(İÆäÿÿÿÿÿ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(íÖò»ÿÿÿÿÿ
